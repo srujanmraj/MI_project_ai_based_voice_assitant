@@ -1,0 +1,130 @@
+{
+    "intents":[
+        {
+            "tag":"greetings",
+            "patterns":["hello","hii","hi","wake up","alpha","good morning"
+            ],
+            "responses":["hello sir","how are you sir","Always for you sir",
+            "Hello","At your service sir","Here's your assistant"
+            ]
+        },
+
+        {
+            "tag":"bye",
+            "patterns":["bye","goodbye","see you later","sleep","exit"
+            ],
+            "responses":["bye","Bye sir","goodbye","See you later sir","have fun sir",
+            "Hello","it will be nice to be at your service sir","Goodbye my friend"
+            ]
+        },
+
+        {
+            "tag":"Health",
+            "patterns":["how are you","are you fine?","are you alright"
+            ],
+            "responses":["Fine","Perfect","Cool","Just like you","I'm fine"
+            ]
+        },
+
+        {
+            "tag":"identity",
+            "patterns":["your name","who are you","what is your name","what are you"
+            ],
+            "responses":["alpha","i am alpha","An A.I assistant","great assistant"
+            ]
+        },
+
+        {
+            "tag":"time",
+            "patterns":["what is the time","time","what's the time"
+            ],
+            "responses":["time"
+            ]
+        },
+
+        {
+            "tag":"date",
+            "patterns":["what is the date","date","what's the date"
+            ],
+            "responses":["date"
+            ]
+        },
+
+        {
+            "tag":"day",
+            "patterns":["which day is it","what is today","what's today"
+            ],
+            "responses":["day"
+            ]
+        },
+
+        {
+            "tag":"wikipedia",
+            "patterns":["who is","what","where","about","tell","wikipedia"
+            ],
+            "responses":["wikipedia"
+            ]
+        },
+
+        {
+            "tag":"google",
+            "patterns":["who is","what","where","about","tell","google","search"
+            ],
+            "responses":["google"
+            ]
+        },
+
+        {
+            "tag":"joke",
+            "patterns":["joke","tell me  a joke","search a joke"
+            ],
+            "responses":["joke"
+            ]
+        },
+
+        {
+            "tag":"calculate",
+            "patterns":["calculate","math","summation","minus","add","multiply","divide"
+            ],
+            "responses":["calculate"
+            ]
+        },
+
+        {
+            "tag":"youtube",
+            "patterns":["open youtube","launch youtube","youtube"
+            ],
+            "responses":["youtube"
+            ]
+        }
+        ,
+
+        {
+            "tag":"write a note",
+            "patterns":["write a note","write note"
+            ],
+            "responses":["write a note"
+            ]
+        },
+
+        {
+            "tag":"show note",
+            "patterns":["show a note","show note"
+            ],
+            "responses":["show note"
+            ]
+        },
+
+        {
+            "tag":"eamil",
+            "patterns":["email","email to srujan"
+            ],
+            "responses":["email"
+            ]
+        }
+
+
+
+    ]
+
+}
